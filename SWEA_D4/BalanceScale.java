@@ -1,3 +1,6 @@
+// 3234 D4 준환이의 양팔저울
+// dfs, 백트래킹 문제
+
 import java.io.*;
 import java.util.*;
 public class BalanceScale {
